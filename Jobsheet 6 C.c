@@ -32,3 +32,4 @@ printf("%5d",transpose[i][j]);
 printf("\n"); 
 } 
 }
+
